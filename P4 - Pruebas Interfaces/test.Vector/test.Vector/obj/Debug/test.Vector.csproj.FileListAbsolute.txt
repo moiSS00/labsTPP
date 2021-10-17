@@ -1,0 +1,16 @@
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\test.Vector.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\test.Vector.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\obj\Debug\test.Vector.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\obj\Debug\test.Vector.csproj.CopyComplete
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\obj\Debug\test.Vector.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p4\test.Vector\test.Vector\obj\Debug\test.Vector.pdb

@@ -1,0 +1,12 @@
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\bin\Debug\Practica9.exe.config
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\obj\Debug\Lab09.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\PROYECTO FINAL\Practica9\Practica9\obj\Debug\Practica9.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\bin\Debug\Practica9.exe.config
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\obj\Debug\Lab09.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\FINAL\Practica9\Practica9\obj\Debug\Practica9.pdb

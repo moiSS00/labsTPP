@@ -1,0 +1,6 @@
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\obj\Debug\Practica12.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\bin\Debug\Practica12.exe.config
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\bin\Debug\Practica12.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\bin\Debug\Practica12.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\obj\Debug\Practica12.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p9\Practica12\Practica12\obj\Debug\Practica12.pdb

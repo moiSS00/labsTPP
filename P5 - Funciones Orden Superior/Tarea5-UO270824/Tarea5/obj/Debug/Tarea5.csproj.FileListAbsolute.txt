@@ -1,0 +1,6 @@
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\bin\Debug\Tarea5.exe.config
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\bin\Debug\Tarea5.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\bin\Debug\Tarea5.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\obj\Debug\Tarea5.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\obj\Debug\Tarea5.exe
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p5\Tarea5\Tarea5\obj\Debug\Tarea5.pdb

@@ -1,0 +1,18 @@
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe.config
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\ListaLibreria.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\ListaLibreria.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csproj.CopyComplete
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.exe
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe.config
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\ListaLibreria.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\ListaLibreria.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csproj.CopyComplete
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.exe
+C:\Users\MOISES\Desktop\MATERIAL TPP\Material Propio\P12 - REPASO\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.pdb

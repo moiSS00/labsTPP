@@ -1,0 +1,17 @@
+C:\Users\MeL\source\repos\TPP8\Modelo\bin\Debug\Modelo.dll
+C:\Users\MeL\source\repos\TPP8\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MeL\source\repos\TPP8\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\MeL\source\repos\TPP8\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\MeL\source\repos\TPP8\Modelo\obj\Debug\Modelo.dll
+C:\Users\MeL\source\repos\TPP8\Modelo\obj\Debug\Modelo.pdb
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\bin\Debug\Modelo.dll
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\bin\Debug\Modelo.pdb
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\obj\Debug\Modelo.dll
+D:\Dropbox\Docencia\TPP\prácticas\08\TPP8_\Modelo\obj\Debug\Modelo.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p6\Modelo\bin\Debug\Modelo.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p6\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p6\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p6\Modelo\obj\Debug\Modelo.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p6\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,46 @@
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p1\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p1\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p1\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p1\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p1\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csproj.CoreCompileInputs.cache
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+E:\TPP\p2\Pract1-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p2\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p2\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p2\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p2\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\UNIVERSIDAD\2ºAÑO\TPP\p2\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\lista TPP\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\lista TPP\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\lista TPP\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\lista TPP\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\lista TPP\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+M:\por si las moscas\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+M:\por si las moscas\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+M:\por si las moscas\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+M:\por si las moscas\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+M:\por si las moscas\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\lista TPP FINAL\Pract2-TPP-L4-UO270824\ListaEnlazada\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\VARIOS\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\VARIOS\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\VARIOS\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\VARIOS\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\VARIOS\Prac6-TPP-L4-UO270824\lista TPP FINAL\test.list.student\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\Lista\Lista\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\Lista\Lista\ListaEnlzadaLibreia\bin\Debug\ListaEnlzadaLibreia.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\Lista\Lista\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\MATERIAL TPP\Lista\Lista\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\Lista\Lista\ListaEnlzadaLibreia\obj\Debug\ListaEnlzadaLibreia.pdb

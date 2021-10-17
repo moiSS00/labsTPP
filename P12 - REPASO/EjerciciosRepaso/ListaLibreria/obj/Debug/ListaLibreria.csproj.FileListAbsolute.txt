@@ -1,0 +1,5 @@
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\ListaLibreria\bin\Debug\ListaLibreria.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\ListaLibreria\bin\Debug\ListaLibreria.pdb
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\ListaLibreria\obj\Debug\ListaLibreria.csprojAssemblyReference.cache
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\ListaLibreria\obj\Debug\ListaLibreria.dll
+C:\Users\MOISES\Desktop\MATERIAL TPP\p12\EjerciciosRepaso\ListaLibreria\obj\Debug\ListaLibreria.pdb
